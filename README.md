@@ -10,7 +10,9 @@
   - PHP (Laravel)
   - Bash
   <br>
-- **Technologies:**
+- **Tools:**
   - Git
+  - Docker
+  - MySQL
 
 #
